@@ -329,8 +329,13 @@ http://www.zdnet.com/blog/violetblue/silicon-valleys-race-problem/768
 
 ## Citations
 [0 - 4] Links to articles written by ESR on his personal blog:
+
 [0] http://esr.ibiblio.org/?p=5001
+
 [1] http://esr.ibiblio.org/?p=3000
+
 [2] http://esr.ibiblio.org/?p=129
+
 [3] http://esr.ibiblio.org/?p=26
+
 [4] http://esr.ibiblio.org/?p=184
