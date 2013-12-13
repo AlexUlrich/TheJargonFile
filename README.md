@@ -137,8 +137,8 @@ independent of skin color." [2]
 
 -- Eric S. Raymond, 11/2003
 
-### Exhibit D: Homophobia
-#### Just asking questions
+## Exhibit D: Homophobia
+### Just asking questions
 "Are gay men biologically or psychologically prone to rape boys at a
 level that makes a gay man even without a known history of abuse into
 a bad risk around boys? Does queer culture encourage a tendency to
@@ -163,7 +163,7 @@ avoided for everyone’s sake." [3]
 
 -- Eric S. Raymond, 6/2002
 
-#### Pedophilia == Homosexuality
+### Pedophilia == Homosexuality
 "ever, attack the essentials of Catholic doctrine
 to agree with Ms. Eberstadt’s main point: that the dominant media
 culture seems bent on obscuring a central fact about the pattern of
@@ -248,7 +248,7 @@ homosexuals and identify themselves as gay." [3]
 -- Eric S. Raymond, 6/2002
 
 
-#### The Homosexual Agenda
+### The Homosexual Agenda
 "That there is a pattern in the national media of political
 correctness and spin on behalf of preferred `victim’ groups isn’t
 news, nor is the fact that homosexuals are among those groups. But
@@ -289,7 +289,7 @@ they are quietly aiding the cause of freedom." [3]
 -- Eric S. Raymond, 6/2002
 
 
-#### AIDS is punishment for promiscuity
+### AIDS is punishment for promiscuity
 "Voltaire once said “In nature there are no rewards or punishments,
 only consequences”. Gays experimented with unfettered promiscuity in
 the 1970s and got AIDS as a consequence. The mores of gay bath-house
@@ -298,9 +298,50 @@ lot of people died horribly as a result of them." [3]
 
 -- Eric S. Raymond, 6/2002 
 
+## Exhibit E: HIV Denialism
+### A Salient and Unintended Interpretation for What's to Follow
+"I believe the most important moment in the foreseeable future of
+philosophy will come when we realize that mad old Nazi bastard
+Heidegger had it right when he said that we are thrown into the world
+and must cope, and that theory-building consists of rearranging our
+toolkit for coping. I believe the biggest blind spot in analytical
+philosophy is its refusal to grapple with Heidegger’s one big insight,
+but that evolutionary biology coupled with Peirce offers us a way to
+stop being blind. I beleve that when the insights of what is now
+called “evolutionary psychology” are truly absorbed by philosophers,
+many of the supposedly intractable problems of philosophy will vanish." [4]
+
+-- Eric S. Raymond, 1/2005
+
+### E:
+"I believe, but cannot prove, that global “AIDS” is a whole cluster of
+unrelated diseases all of which have been swept under a single rug for
+essentially political reasons, and that the identification of HIV as
+the sole pathogen is likely to go down as one of the most colossal
+blunders in the history of medicine." [4]
+
+-- Eric S. Raymond, 1/2005
+
+
+## Reclaiming the Jargon File for Everyone
+retard call to action here
+
+## Impact on Start-up Culture and its IT Offshoots
+i seriously cant keep reading all of this, someone else quote mine
+
+
+http://programmersbeingdicks.tumblr.com/
+http://www.thewire.com/technology/2013/02/silicon-valley-culture/62385/
+http://www.science20.com/science_20/blog/culture_fit_psychological_template_startup_hires_wont_have_some_women_or_some_men-119452
+https://medium.com/on-startups/115a488f9a14
+http://www.quora.com/Startups/Is-rejecting-a-candidate-because-they-are-not-a-culture-fit-really-just-thinly-veiled-discrimination
+http://www.zdnet.com/blog/violetblue/silicon-valleys-race-problem/768
+
+
 ## Citations
-[0 - 1] Links to articles written by ESR on his personal blog:
+[0 - 4] Links to articles written by ESR on his personal blog:
 [0] http://esr.ibiblio.org/?p=5001
 [1] http://esr.ibiblio.org/?p=3000
 [2] http://esr.ibiblio.org/?p=129
 [3] http://esr.ibiblio.org/?p=26
+[4] http://esr.ibiblio.org/?p=184
