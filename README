@@ -1,14 +1,30 @@
-The Jargon File (screw you ESR)
+The Jargon File
 ===============================
 
-Finally the day has come where we will reclaim what is truly ours.
 
-Read secretes THEY don't want you to know.
+Introduction
+============
 
-ESR has had his grubbly little paws all over OUR FILE for years.
+This is a public repository for the Jargon File.
 
-This ends today.
+The most important thing to say, is that pull requests will be accepted.. This document should be fluid.
 
-Clone The Jargon File Today.
+It is important that documents like this aren't overlooked and diminished by the company they keep. The Jargon File has been in danger of this in recent years.
 
-I declare Eric S. Raymond officially unseated as 'chief archivist of hacker culture'.
+As the license for the version published by its current 'maintainer' allows, I am redistributing this on GitHub with the hopes that it will be updated by those who it's intended for. Hackers.
+
+This isn't 'official', anything of this nature cannot be.
+
+Some disagree.
+
+"It's as official as anything associated with the Jargon File gets." - Eric S. Raymond
+
+
+Rationale
+==========
+
+The Jargon File is a reflection of 70s DEC hacker culture, which remains to this day a microcosm of influence to the contemporary poweruser, IT and hacker culture alike. 
+
+What does it say about the state of inclusiveness in the IT world that such a project is maintained and written to the standards of its founder, Eric S. Raymond?
+
+Note: this is not an attempt to slander the name of an objectively important figurehead, it serves mearly as an expose on harmful obsolete opinions which have shaped the startup zeitgeist at the expense of anyone that doesn't fit a narrowly defined view of who can use computers or be a hacker.
