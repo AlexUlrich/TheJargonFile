@@ -40,6 +40,8 @@ One was: their skin color looks fecal. The other was: their bone structure doesn
 
 
 ## Exhibit B: Misogyny and Misandry
+
+```
 "If you are female, you may be thinking “OK, I should learn game so jerks won’t be able to play me.” Well, that’s nice, but almost completely irrelevant. Because what both evolutionary psych and PUA tell us is that in cold fact you want to be played by an alpha – and failing that, at least someone a bit taller, a bit older, a bit smarter, and a bit higher-status than you. The fact that you want to be better at detecting imitation alphas changes nothing essential; women have been polishing that counter-game as long as men have been practicing theirs.
 
 No. The reason women need be paying attention to PUA goes much deeper than just notching up another escalation in the jerk-vs.-bitch arms race. It’s because until women stop lying to themselves about their actual behavior, they won’t have any prayer of becoming self-aware enough to change the sexual reward pattern they present to men. In pervasive female self-honesty begins the only hope of not training up more generations of jerks. And it’s there that the pitiless, revealing glare of the PUA spotlight might help.
@@ -49,6 +51,7 @@ Yes, I know what kind of reflexive screaming that last paragraph is going to tri
 In fact, it can’t be that way, and it can’t be for a brutally simple reason. If you are reading this, you are almost certainly a member of a culture in which women have far more power to control mens’ sexual experience than the reverse. The only exceptions to this rule have been barbaric hellholes in which women were treated as chattel.
 
 Ladies, with having more power over sexual outcomes there comes more responsibility. And there’s this, too; just suppose the great mass of men stopped thinking with their dicks and 99% of them suddenly became sensitive New Age guys eager to commit. Until most women stopped being cruel to betas and rewarding men who behave like dominating jerks with sex, nothing….nothing would change. PUA game would still work. The tragedy to which it is a minimax response would still be in motion." [1]
+```
 
 -- Eric S. Raymond, 3/2011
 
