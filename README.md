@@ -28,125 +28,112 @@ Note: this is not an attempt to slander the name of an objectively important fig
 ## Exhibit A: Racism
 ### Scientific Racism
 >It only took a few minutes of this for me to identify specific sensory stimuli that were triggering my feelings of revulsion. I’m not going to describe the specific stimuli in detail because I really don’t want anybody to be able to figure out which minority is X. But I can identify three specific triggers.
->One was: their skin color looks fecal. The other was: their bone structure doesn’t look human. And they’re just off-reference enough to be much more creepy than if they looked less like people, like bad CGI or shambling undead in a B movie. When I paid close enough attention, these were the three basic data under the revulsion; my hindbrain thought it was surrounded by alien shit zombies. [0]
+>One was: their skin color looks fecal. The other was: their bone structure doesn’t look human. And they’re just off-reference enough to be much more creepy than if they looked less like people, like bad CGI or shambling undead in a B movie. When I paid close enough attention, these were the three basic data under the revulsion; my hindbrain thought it was surrounded by alien shit zombies. 
 
--- Eric S. Raymond, 7/2013
+-- Eric S. Raymond, 7/2013 [0]
 
 ### General Racism
->Now the uncomfortable part: by any objective measure, blacks as a group are a problem of a kind minority X is not. Lower mean IQ, more crime and violence, more welfare dependency, lots of whining for privileges, etcetera etcetera. And I have had the experience of feeling like I was in physical danger when isolated with a group of black people (just once, on a night train in New Jersey, but that once was more than enough). [0]
+>Now the uncomfortable part: by any objective measure, blacks as a group are a problem of a kind minority X is not. Lower mean IQ, more crime and violence, more welfare dependency, lots of whining for privileges, etcetera etcetera. And I have had the experience of feeling like I was in physical danger when isolated with a group of black people (just once, on a night train in New Jersey, but that once was more than enough).
 
--- Eric S. Raymond, 7/2013
+-- Eric S. Raymond, 7/2013 [0]
 
 
 ## Exhibit B: Misogyny and Misandry
 
-```
-"If you are female, you may be thinking “OK, I should learn game so jerks won’t be able to play me.” Well, that’s nice, but almost completely irrelevant. Because what both evolutionary psych and PUA tell us is that in cold fact you want to be played by an alpha – and failing that, at least someone a bit taller, a bit older, a bit smarter, and a bit higher-status than you. The fact that you want to be better at detecting imitation alphas changes nothing essential; women have been polishing that counter-game as long as men have been practicing theirs.
 
-No. The reason women need be paying attention to PUA goes much deeper than just notching up another escalation in the jerk-vs.-bitch arms race. It’s because until women stop lying to themselves about their actual behavior, they won’t have any prayer of becoming self-aware enough to change the sexual reward pattern they present to men. In pervasive female self-honesty begins the only hope of not training up more generations of jerks. And it’s there that the pitiless, revealing glare of the PUA spotlight might help.
+>If you are female, you may be thinking “OK, I should learn game so jerks won’t be able to play me.” Well, that’s nice, but almost completely irrelevant. Because what both evolutionary psych and PUA tell us is that in cold fact you want to be played by an alpha – and failing that, at least someone a bit taller, a bit older, a bit smarter, and a bit higher-status than you. The fact that you want to be better at detecting imitation alphas changes nothing essential; women have been polishing that counter-game as long as men have been practicing theirs.
+>No. The reason women need be paying attention to PUA goes much deeper than just notching up another escalation in the jerk-vs.-bitch arms race. It’s because until women stop lying to themselves about their actual behavior, they won’t have any prayer of becoming self-aware enough to change the sexual reward pattern they present to men. In pervasive female self-honesty begins the only hope of not training up more generations of jerks. And it’s there that the pitiless, revealing glare of the PUA spotlight might help.
+>Yes, I know what kind of reflexive screaming that last paragraph is going to trigger. Feminists will lash at me for suggesting that this is womens’ problem to solve; shouldn’t at least half the burden of self-awareness and change fall on men?
+>In fact, it can’t be that way, and it can’t be for a brutally simple reason. If you are reading this, you are almost certainly a member of a culture in which women have far more power to control mens’ sexual experience than the reverse. The only exceptions to this rule have been barbaric hellholes in which women were treated as chattel.
+>Ladies, with having more power over sexual outcomes there comes more responsibility. And there’s this, too; just suppose the great mass of men stopped thinking with their dicks and 99% of them suddenly became sensitive New Age guys eager to commit. Until most women stopped being cruel to betas and rewarding men who behave like dominating jerks with sex, nothing….nothing would change. PUA game would still work. The tragedy to which it is a minimax response would still be in motion.
 
-Yes, I know what kind of reflexive screaming that last paragraph is going to trigger. Feminists will lash at me for suggesting that this is womens’ problem to solve; shouldn’t at least half the burden of self-awareness and change fall on men?
-
-In fact, it can’t be that way, and it can’t be for a brutally simple reason. If you are reading this, you are almost certainly a member of a culture in which women have far more power to control mens’ sexual experience than the reverse. The only exceptions to this rule have been barbaric hellholes in which women were treated as chattel.
-
-Ladies, with having more power over sexual outcomes there comes more responsibility. And there’s this, too; just suppose the great mass of men stopped thinking with their dicks and 99% of them suddenly became sensitive New Age guys eager to commit. Until most women stopped being cruel to betas and rewarding men who behave like dominating jerks with sex, nothing….nothing would change. PUA game would still work. The tragedy to which it is a minimax response would still be in motion." [1]
-```
-
--- Eric S. Raymond, 3/2011
+-- Eric S. Raymond, 3/2011 [1]
 
 ### Nuanced opinions
 In this fine analysis of a PUAs verbal spewage, he slightly grazes the fact that PUAs are manipulative and vile human beings, but buys into their accurate portrayal of the dynamics between men and women, and the intersections of IQ, occupations:
 
-"Also, and partly as consequence of where I hang out, it has been quite unusual for me to hit on women with IQs below about 120 – and it may well be the case that I’ve never tried to interest a woman with below-average intelligence. (Er, which is not to say they don’t notice me; even in middle age I get lots of IOIs from waitresses and other female service personnel. Any PUA would tell you this is a predictable and unremarkable consequence of being an alpha male.)
-
-One one hand, I recognize techniques like kino escalation. Oh, do I ever! Adroit use of that one has gotten me into the sack more times than I can count. On the other hand, I’m basically incapable of what PUAs call the neg; I can’t insult a woman even by implication unless I think she’s done something to specifically deserve it, and the thought of flinging negs to score sex disgusts me in a very fundamental way.
-
-On the gripping hand…I recognize a harsh truthfulness in a lot of what the PUAs are saying. Crudely put, the “game” advice for most men (the population PUAs call AFCs or “Average Frustrated Chumps”) reduces to behaving like an asshole so women will mistake you for an alpha. I really am an alpha, so I don’t have to asshole-fake it – but it is nevertheless quite clear to me that the PUAs are on to something. This is frequently a successful strategy; I’ve been outcompeted by it myself on several humiliating occasions. Furthermore, the PUAs are probably correct in asserting that for many AFCs it is the best strategy available, and never mind that the thought of running it myself turns my stomach.
-
-In the PUA’s disturbingly persuasive analysis, I’ve had the luxury of not treating women like shit only because I have often had USPs for the brighter-than-average women I was interested in, notably in the combination of alpha-male qualities with high intelligence and expressive skills. Without those USPs, argues the PUA, my choices would have reduced to “frustrated loser” or “sexually successful douchebag” – and, looking at my own experience and that of my less successful peers, I find myself unable to refute this.
-
-That is kind of horrifying if you think about it. Possession of USPs is rare by definition, and if you have one you’re more than averagely likely to be an alpha anyway. The PUA is telling us that human beings are designed in such a way that the most reliable way for the large majority of beta males to get sex is to behave like narcissistic, dominating, emotionally-unavailable jerks. This would be appalling enough as pure theory, but the PUA makes it worse by applying it to actually have lots of sex. “Success” one blog unsparingly observes “is defined by penis in vagina.” Never take your eye off that ball, says the PUA. Much as one might like to dismiss this as crass reductionism, evolutionary theory makes any countercase rather difficult to argue.
-
-How did our poor species get into this hole? The PUA community gravitates to evolutionary-psychology explanations for human behavior as much as I do, it’s one of the interesting things about reading their stuff. It’s remarkable how often they manage to apply facts about human reproductive biology in a tactical way. The use they make of evo-bio concepts like hypergamy, peacocking, and sexy-son theory is, I find, sound and justified. The kind of pitiless clinical eye they turn on human mating interactions could scarcely be bettered by most scientists.
-
-But the PUAs don’t, at least so far as I’ve yet seen, have a generative explanation for why women friend-zone nice guys and fuck bad boys. They accept this as the foundation of game without asking what circumstances in the environment of evolutionary adaptedness stuck women with apparently counterproductive wiring.
-
+>Also, and partly as consequence of where I hang out, it has been quite unusual for me to hit on women with IQs below about 120 – and it may well be the case that I’ve never tried to interest a woman with below-average intelligence. (Er, which is not to say they don’t notice me; even in middle age I get lots of IOIs from waitresses and other female service personnel. Any PUA would tell you this is a predictable and unremarkable consequence of being an alpha male.)
+>One one hand, I recognize techniques like kino escalation. Oh, do I ever! Adroit use of that one has gotten me into the sack more times than I can count. On the other hand, I’m basically incapable of what PUAs call the neg; I can’t insult a woman even by implication unless I think she’s done something to specifically deserve it, and the thought of flinging negs to score sex disgusts me in a very fundamental way.
+>On the gripping hand…I recognize a harsh truthfulness in a lot of what the PUAs are saying. Crudely put, the “game” advice for most men (the population PUAs call AFCs or “Average Frustrated Chumps”) reduces to behaving like an asshole so women will mistake you for an alpha. I really am an alpha, so I don’t have to asshole-fake it – but it is nevertheless quite clear to me that the PUAs are on to something. This is frequently a successful strategy; I’ve been outcompeted by it myself on several humiliating occasions. Furthermore, the PUAs are probably correct in asserting that for many AFCs it is the best strategy available, and never mind that the thought of running it myself turns my stomach.
+>In the PUA’s disturbingly persuasive analysis, I’ve had the luxury of not treating women like shit only because I have often had USPs for the brighter-than-average women I was interested in, notably in the combination of alpha-male qualities with high intelligence and expressive skills. Without those USPs, argues the PUA, my choices would have reduced to “frustrated loser” or “sexually successful douchebag” – and, looking at my own experience and that of my less successful peers, I find myself unable to refute this.
+>That is kind of horrifying if you think about it. Possession of USPs is rare by definition, and if you have one you’re more than averagely likely to be an alpha anyway. The PUA is telling us that human beings are designed in such a way that the most reliable way for the large majority of beta males to get sex is to behave like narcissistic, dominating, emotionally-unavailable jerks. This would be appalling enough as pure theory, but the PUA makes it worse by applying it to actually have lots of sex. “Success” one blog unsparingly observes “is defined by penis in vagina.” Never take your eye off that ball, says the PUA. Much as one might like to dismiss this as crass reductionism, evolutionary theory makes any countercase rather difficult to argue.
+>How did our poor species get into this hole? The PUA community gravitates to evolutionary-psychology explanations for human behavior as much as I do, it’s one of the interesting things about reading their stuff. It’s remarkable how often they manage to apply facts about human reproductive biology in a tactical way. The use they make of evo-bio concepts like hypergamy, peacocking, and sexy-son theory is, I find, sound and justified. The kind of pitiless clinical eye they turn on human mating interactions could scarcely be bettered by most scientists.
+>But the PUAs don’t, at least so far as I’ve yet seen, have a generative explanation for why women friend-zone nice guys and fuck bad boys. They accept this as the foundation of game without asking what circumstances in the environment of evolutionary adaptedness stuck women with apparently counterproductive wiring.
 ...
+>Meanwhile, back in modernity, we’re stuck with the consequences – men who have been trained to be imitation-alpha jerks and abusers by women who are sexually fickle, manipulative and cruel towards beta males. It’s not a pretty picture, not if you’re looking in from halfway outside it like me and certainly not if you’re stuck in the middle of it as an invisible AFC or a woman wondering why she’s surrounded by douchebags.
 
-Meanwhile, back in modernity, we’re stuck with the consequences – men who have been trained to be imitation-alpha jerks and abusers by women who are sexually fickle, manipulative and cruel towards beta males. It’s not a pretty picture, not if you’re looking in from halfway outside it like me and certainly not if you’re stuck in the middle of it as an invisible AFC or a woman wondering why she’s surrounded by douchebags.
-" [1]
 
--- Eric S. Raymond, 3/2011
+-- Eric S. Raymond, 3/2011 [1]
 
 ## Exhibit C: Gender, Race and Intellegence
-"The reasons many popular and journalistic accounts continue to
-insist that IQ testing is at best meaningless and at worst a sinister
-plot are twofold. First, this belief flatters half of the population.
-“My IQ may be below average, but that doesn’t matter because IQ is
-meaningless and I have high emotional intelligence!” is,
-understandably, a favorite evasion maneuver among dimwits. But that
-isn’t the worst of it. The real dynamite is not in
-individual differences but rather that the distribution of IQ (and
-hence of g) varies considerably across groups in ways that are
-politically explosive.
+>The reasons many popular and journalistic accounts continue to
+>insist that IQ testing is at best meaningless and at worst a sinister
+>plot are twofold. First, this belief flatters half of the population.
+>“My IQ may be below average, but that doesn’t matter because IQ is
+>meaningless and I have high emotional intelligence!” is,
+>understandably, a favorite evasion maneuver among dimwits. But that
+>isn’t the worst of it. The real dynamite is not in
+>individual differences but rather that the distribution of IQ (and
+>hence of g) varies considerably across groups in ways that are
+>politically explosive.
 
-Men vs. women is the least of it. With other variables controlled,
-men and women in a population have the same mean IQ, but the
-dispersion differs. The female bell curve is slightly narrower, so
-women have fewer idiots and fewer geniuses among them. Where this
-gets touchy is that it may do a better job than cultural sexism of
-explaining why most of the highest achievers in most fields are male
-rather than female. Equal opportunity does not guarantee equal
-results, and lot of feminist theory goes out the window." [2]
+>Men vs. women is the least of it. With other variables controlled,
+>men and women in a population have the same mean IQ, but the
+>dispersion differs. The female bell curve is slightly narrower, so
+>women have fewer idiots and fewer geniuses among them. Where this
+>gets touchy is that it may do a better job than cultural sexism of
+>explaining why most of the highest achievers in most fields are male
+>rather than female. Equal opportunity does not guarantee equal
+>results, and lot of feminist theory goes out the window.
 
--- Eric S. Raymond, 11/2003
+-- Eric S. Raymond, 11/2003 [2]
 
 #### More Scientific Racism
-"And the part that, if you are a decent human being and not a racist
-bigot, you have been dreading: American blacks average a standard
-deviation lower in IQ than American whites at about 85. And
-it gets worse: the average IQ of African blacks is lower
-still, not far above what is considered the threshold of mental
-retardation in the U.S. And yes, it’s genetic; g seems to be about
-85% heritable, and recent studies of effects like regression towards
-the mean suggest strongly that most of the heritability is DNA rather
-than nurturance effects.
+>And the part that, if you are a decent human being and not a racist
+>bigot, you have been dreading: American blacks average a standard
+>deviation lower in IQ than American whites at about 85. And
+>it gets worse: the average IQ of African blacks is lower
+>still, not far above what is considered the threshold of mental
+>retardation in the U.S. And yes, it’s genetic; g seems to be about
+>85% heritable, and recent studies of effects like regression towards
+>the mean suggest strongly that most of the heritability is DNA rather
+>than nurturance effects.
 
-For anyone who believe that racial equality is an important goal,
-this is absolutely horrible news. Which is why a lot of
-well-intentioned people refuse to look at these facts, and will
-attempt to shout down anyone who speaks them in public. There have
-been several occasions on which leading psychometricians have had
-their books canceled or withdrawn by publishers who found the actual
-scientific evidence about IQ so appalling that they refused to print
-it.
+>For anyone who believe that racial equality is an important goal,
+>this is absolutely horrible news. Which is why a lot of
+>well-intentioned people refuse to look at these facts, and will
+>attempt to shout down anyone who speaks them in public. There have
+>been several occasions on which leading psychometricians have had
+>their books canceled or withdrawn by publishers who found the actual
+>scientific evidence about IQ so appalling that they refused to print
+>it.
 
-Unfortunately, denial of the facts doesn’t make them go away. Far from
-being meaningless, IQ may be the single most important statistic about
-human beings, in the precise sense that differences in g probably drive
-individual and social outcomes more than any other single measurable
-attribute of human beings.
+>Unfortunately, denial of the facts doesn’t make them go away. Far from
+>being meaningless, IQ may be the single most important statistic about
+>human beings, in the precise sense that differences in g probably drive
+>individual and social outcomes more than any other single measurable
+>attribute of human beings.
 
-Mean IQ differences do not justify making assumptions about any individual.
-There are African black geniuses and Ashkenazic Jewish morons; humanity and
-ethics demand that we meet each individual human being as an individual,
-without prejudice. At the same time, group differences have a significance
-too great to ignore. In the U.S., blacks are 12% of the population but
-commit 50% of violent crimes; can anyone honestly think this is
-unconnected to the fact that they average 15 points of IQ lower than the
-general population? That stupid people are more violent is a fact
-independent of skin color." [2]
+>Mean IQ differences do not justify making assumptions about any individual.
+>There are African black geniuses and Ashkenazic Jewish morons; humanity and
+>ethics demand that we meet each individual human being as an individual,
+>without prejudice. At the same time, group differences have a significance
+>too great to ignore. In the U.S., blacks are 12% of the population but
+>commit 50% of violent crimes; can anyone honestly think this is
+>unconnected to the fact that they average 15 points of IQ lower than the
+>general population? That stupid people are more violent is a fact
+>independent of skin color. 
 
--- Eric S. Raymond, 11/2003
+-- Eric S. Raymond, 11/2003 [2]
 
 ## Exhibit D: Homophobia
 ### Just asking questions
-"Are gay men biologically or psychologically prone to rape boys at a
+>Are gay men biologically or psychologically prone to rape boys at a
 level that makes a gay man even without a known history of abuse into
 a bad risk around boys? Does queer culture encourage a tendency to
 rape in gay men who are put in authority over boys?
 
-Here is where the question becomes practical: were the Boy Scouts
+>Here is where the question becomes practical: were the Boy Scouts
 of America so wrong to ban homosexual scoutmasters? And here we are
 with a crashing thud back in the realm of present politics. After the
 numbing, horrifying, seemingly never-ending stream of foul crimes
@@ -154,16 +141,16 @@ revealed in the scandal, even staunch sexual libertarians like your
 humble author can no longer honestly dismiss this question simply
 because it’s being raised by unpleasant conservatives.
 
-The priestly-abuse scandal forces us to face reality. To the
+>The priestly-abuse scandal forces us to face reality. To the
 extent that pederasty, pedophilic impulses, and twink fantasies are
 normal among homosexual men, putting one in charge of adolescent boys
 may after all be just as bad an idea as waltzing a man with a known
 predisposition for alcoholism into a room full of booze. One wouldn’t
 have to think homosexuality is evil or a disease to make institutional
 rules against this, merely notice that it creates temptations best
-avoided for everyone’s sake." [3]
+avoided for everyone’s sake.
 
--- Eric S. Raymond, 6/2002
+-- Eric S. Raymond, 6/2002 [3]
 
 ### Pedophilia == Homosexuality
 "ever, attack the essentials of Catholic doctrine
