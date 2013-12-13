@@ -20,10 +20,24 @@ The Jargon File is a reflection of 70s DEC hacker culture, which remains to this
 
 What does it say about the state of inclusiveness in the IT worldthat such a project is maintained and written to the standards of its founder, Eric S. Raymond?
 
-
-If you don't need a mountain of evidence to convince you of these facts, please skip ahead to the Reclaiming the Jargon File for Everyone at the end of this document.
-
 Note: this is not an attempt to slander the name of an objectively important figurehead, it serves mearly as an expose on harmful obsolete opinions which have shaped the startup zeitgeist at the expense of anyone that doesn't fit a narrowly defined view of who can use computers or be a hacker.
+
+Please see Exhibits A - D.
+
+## Reclaiming the Jargon File for Everyone
+retard call to action here
+
+## Impact on Start-up Culture and its IT Offshoots
+i seriously cant keep reading all of this, someone else quote mine
+
+
+http://programmersbeingdicks.tumblr.com/
+http://www.thewire.com/technology/2013/02/silicon-valley-culture/62385/
+http://www.science20.com/science_20/blog/culture_fit_psychological_template_startup_hires_wont_have_some_women_or_some_men-119452
+https://medium.com/on-startups/115a488f9a14
+http://www.quora.com/Startups/Is-rejecting-a-candidate-because-they-are-not-a-culture-fit-really-just-thinly-veiled-discrimination
+http://www.zdnet.com/blog/violetblue/silicon-valleys-race-problem/768
+
 
 ## Exhibit A: Racism
 ### Scientific Racism
@@ -310,22 +324,6 @@ the sole pathogen is likely to go down as one of the most colossal
 blunders in the history of medicine.
 
 -- Eric S. Raymond, 1/2005 [4]
-
-
-## Reclaiming the Jargon File for Everyone
-retard call to action here
-
-## Impact on Start-up Culture and its IT Offshoots
-i seriously cant keep reading all of this, someone else quote mine
-
-
-http://programmersbeingdicks.tumblr.com/
-http://www.thewire.com/technology/2013/02/silicon-valley-culture/62385/
-http://www.science20.com/science_20/blog/culture_fit_psychological_template_startup_hires_wont_have_some_women_or_some_men-119452
-https://medium.com/on-startups/115a488f9a14
-http://www.quora.com/Startups/Is-rejecting-a-candidate-because-they-are-not-a-culture-fit-really-just-thinly-veiled-discrimination
-http://www.zdnet.com/blog/violetblue/silicon-valleys-race-problem/768
-
 
 ## Citations
 [0 - 4] Links to articles written by ESR on his personal blog:
