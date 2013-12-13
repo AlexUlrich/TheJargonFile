@@ -27,14 +27,13 @@ Note: this is not an attempt to slander the name of an objectively important fig
 
 ## Exhibit A: Racism
 ### Scientific Racism
-"It only took a few minutes of this for me to identify specific sensory stimuli that were triggering my feelings of revulsion. I’m not going to describe the specific stimuli in detail because I really don’t want anybody to be able to figure out which minority is X. But I can identify three specific triggers.
-
-One was: their skin color looks fecal. The other was: their bone structure doesn’t look human. And they’re just off-reference enough to be much more creepy than if they looked less like people, like bad CGI or shambling undead in a B movie. When I paid close enough attention, these were the three basic data under the revulsion; my hindbrain thought it was surrounded by alien shit zombies."[0]
+>It only took a few minutes of this for me to identify specific sensory stimuli that were triggering my feelings of revulsion. I’m not going to describe the specific stimuli in detail because I really don’t want anybody to be able to figure out which minority is X. But I can identify three specific triggers.
+>One was: their skin color looks fecal. The other was: their bone structure doesn’t look human. And they’re just off-reference enough to be much more creepy than if they looked less like people, like bad CGI or shambling undead in a B movie. When I paid close enough attention, these were the three basic data under the revulsion; my hindbrain thought it was surrounded by alien shit zombies. [0]
 
 -- Eric S. Raymond, 7/2013
 
 ### General Racism
-"Now the uncomfortable part: by any objective measure, blacks as a group are a problem of a kind minority X is not. Lower mean IQ, more crime and violence, more welfare dependency, lots of whining for privileges, etcetera etcetera. And I have had the experience of feeling like I was in physical danger when isolated with a group of black people (just once, on a night train in New Jersey, but that once was more than enough)." [0]
+>Now the uncomfortable part: by any objective measure, blacks as a group are a problem of a kind minority X is not. Lower mean IQ, more crime and violence, more welfare dependency, lots of whining for privileges, etcetera etcetera. And I have had the experience of feeling like I was in physical danger when isolated with a group of black people (just once, on a night train in New Jersey, but that once was more than enough). [0]
 
 -- Eric S. Raymond, 7/2013
 
