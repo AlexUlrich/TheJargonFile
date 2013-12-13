@@ -153,7 +153,7 @@ avoided for everyone’s sake.
 -- Eric S. Raymond, 6/2002 [3]
 
 ### Pedophilia == Homosexuality
-"ever, attack the essentials of Catholic doctrine
+>However, attack the essentials of Catholic doctrine
 to agree with Ms. Eberstadt’s main point: that the dominant media
 culture seems bent on obscuring a central fact about the pattern of
 crimes — which is that they are predominently homosexual abuse by
@@ -168,7 +168,7 @@ of the vague accounts in the U.S. media, which traffic in terms that
 seem designed to obscure the gender and age of the victims and the
 homosexual orientation of almost all the abusers. Why is that?
 
-Apparently, because one of the rules of the U.S.’s dominant media
+>Apparently, because one of the rules of the U.S.’s dominant media
 culture is that Homosexuals Are Not To Be Stigmatized (I think it’s
 carved in stone right next to “Environmentalists are Saints” and “Gun
 Owners are Redneck Nut-Jobs”). Gay conservative Andrew Sullivan
@@ -178,12 +178,12 @@ or abusive priests as homosexuals; that might reflect badly on a
 journalistically-protected class by associating it with criminal
 behavior.
 
-But more than that; the truth the dominant media culture really
+>But more than that; the truth the dominant media culture really
 doesn’t want to go near is that pederasty has never been a marked or
 unusual behavior among homosexuals, and even advocates of outright
 pedophilia are not shunned in the homosexual-activist community.
 
-The public spin of gay activist groups like Queer Nation is that
+>The public spin of gay activist groups like Queer Nation is that
 most male homosexual behavior is androphilia, adult-to-adult
 sex between people of comparable ages. And indeed, gay historians agree with
 anthropologists that in the modern West, androphilia is more common
@@ -192,7 +192,7 @@ historically normal. But another way of putting this is that in most
 other cultures and times, pederasty and pedophilia have been more
 common forms of homosexuality than androphilia.
 
-Pederasty, at least, remains a common behavior among modern
+>Pederasty, at least, remains a common behavior among modern
 homosexuals. The `twink’ or compliant teenage boy (usually blond,
 usually muscled, depicted in the first dewy flush of postpubescence)
 is the standard fantasy object of gay porn. By contrast, I learned
@@ -205,7 +205,7 @@ conclusion that older homosexuals actually pursue boys quite a bit
 more frequently than either older lesbians or older heterosexual men
 pursue girls.
 
-Homosexual activists, when challenged on this point, like to retort
+>Homosexual activists, when challenged on this point, like to retort
 that older men nailing barely-nubile teenage girls is far more
 common. And in absolute terms it is — but only because there are
 twenty-five to a hundred times more straight men than there are gay
@@ -217,12 +217,12 @@ and the North American Man-Boy Love Association, actively advocating
 pederasty and pedophilia, is welcomed at gay-pride events
 everywhere.
 
-If the prevalence of homosexuality in the Catholic priesthood is
+>If the prevalence of homosexuality in the Catholic priesthood is
 the elephant in the sacristy, the homosexuality/pederasty/pedophilia
 connection in gay culture is the elephant in the bath-house. No
 amount of denying it’s there is going to make the beast go away.
 
-But homosexual activists don’t want straights to see the elephant,
+>But homosexual activists don’t want straights to see the elephant,
 and no wonder. One of the most persistent themes to show up in
 hostility towards homosexuals is the fear that they will recruit
 impressionable boys who might otherwise have grown up straight. Thus
@@ -232,13 +232,13 @@ gay life is all about androphilia, none of that pederasty or
 pedophilia stuff going on here. And thus, they’d rather not have
 anyone thinking about the fact that most priestly abuse is in fact
 classically pederastic and pedophilic behavior by men who behave as
-homosexuals and identify themselves as gay." [3]
+homosexuals and identify themselves as gay.
 
--- Eric S. Raymond, 6/2002
+-- Eric S. Raymond, 6/2002 [3]
 
 
 ### The Homosexual Agenda
-"That there is a pattern in the national media of political
+>That there is a pattern in the national media of political
 correctness and spin on behalf of preferred `victim’ groups isn’t
 news, nor is the fact that homosexuals are among those groups. But
 get this: Richard Berke, the Washington editor of the New York
@@ -253,7 +253,7 @@ content studies that the national media tend to follow where they’re
 led by the Times and a handful of other prestige
 newspapers, all broadly similar in editorial policy.
 
-The expected next step in this sequence would be for me to start
+>The expected next step in this sequence would be for me to start
 screaming about the evil of it all and demand that Something Be Done.
 If I were a conservative, that’s what I’d do. But in fact it’s not
 self-evident that this particular disinformation campaign is worth
@@ -264,7 +264,7 @@ and pedophilia.
 
 ...
 
-Gay men, or at least the sort of university-educated gay men who
+>Gay men, or at least the sort of university-educated gay men who
 wind up determining what’s on the front page of the New York
 Times and spiking stories like the Dirkhising murder, know
 these facts. How surprising would it be if they interpreted most
@@ -273,23 +273,23 @@ consciousness, implanted in them by a homophobic and gay-oppressing
 culture? By suppressing the homosexual identification of most of the
 accused priests, gays in the media can protect their own sexual and
 political interests while believing — perhaps quite sincerely — that
-they are quietly aiding the cause of freedom." [3]
+they are quietly aiding the cause of freedom.
 
--- Eric S. Raymond, 6/2002
+-- Eric S. Raymond, 6/2002 [3]
 
 
 ### AIDS is punishment for promiscuity
-"Voltaire once said “In nature there are no rewards or punishments,
+>Voltaire once said “In nature there are no rewards or punishments,
 only consequences”. Gays experimented with unfettered promiscuity in
 the 1970s and got AIDS as a consequence. The mores of gay bath-house
 culture turned out to be broken in the way that ultimately matters; a
-lot of people died horribly as a result of them." [3]
+lot of people died horribly as a result of them.
 
--- Eric S. Raymond, 6/2002 
+-- Eric S. Raymond, 6/2002 [3]
 
 ## Exhibit E: HIV Denialism
 ### A Salient and Unintended Interpretation for What's to Follow
-"I believe the most important moment in the foreseeable future of
+>I believe the most important moment in the foreseeable future of
 philosophy will come when we realize that mad old Nazi bastard
 Heidegger had it right when he said that we are thrown into the world
 and must cope, and that theory-building consists of rearranging our
@@ -298,18 +298,18 @@ philosophy is its refusal to grapple with Heidegger’s one big insight,
 but that evolutionary biology coupled with Peirce offers us a way to
 stop being blind. I beleve that when the insights of what is now
 called “evolutionary psychology” are truly absorbed by philosophers,
-many of the supposedly intractable problems of philosophy will vanish." [4]
+many of the supposedly intractable problems of philosophy will vanish.
 
--- Eric S. Raymond, 1/2005
+-- Eric S. Raymond, 1/2005 [4]
 
-### E:
-"I believe, but cannot prove, that global “AIDS” is a whole cluster of
+### The goods
+>I believe, but cannot prove, that global “AIDS” is a whole cluster of
 unrelated diseases all of which have been swept under a single rug for
 essentially political reasons, and that the identification of HIV as
 the sole pathogen is likely to go down as one of the most colossal
-blunders in the history of medicine." [4]
+blunders in the history of medicine.
 
--- Eric S. Raymond, 1/2005
+-- Eric S. Raymond, 1/2005 [4]
 
 
 ## Reclaiming the Jargon File for Everyone
